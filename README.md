@@ -6,6 +6,8 @@ Third-year Computer Science student (**BUT Informatique**, IUT du Limousin, Fran
 
 🔎 **Looking for a 16-week web / software development internship from March 2027** (France, Europe or remote) — also open to *alternance*.
 
+🌐 **Portfolio:** [myanganbaatar.github.io/Portpolio](https://myanganbaatar.github.io/Portpolio/)
+
 ## 🛠️ Tech stack
 
 - **Languages:** TypeScript · JavaScript · Java · PHP · Python · SQL · C# · Kotlin · C/C++
@@ -21,13 +23,13 @@ Built and shipped three full-stack applications to production:
 - **[mongolian-aupair.com](https://mongolian-aupair.com)** — Next.js 16, React 19, Tailwind CSS.<br>Live company website powered by the headless CMS (dynamic programme pages, FAQ, gallery, testimonials, contact form), plus a PHP version.
 - **correctURL** — Next.js 14, TypeScript, PostgreSQL, Docker.<br>URL shortener with click analytics and custom slugs, hardened in production with Nginx rate limiting, Cloudflare and Fail2ban.
 
-## 🎓 University projects
+## 🎓 University & personal projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Portfolio](https://github.com/Myanganbaatar/Portpolio) · [live](https://myanganbaatar.github.io/Portpolio/) | Personal responsive portfolio website | React, GitHub Pages |
 | [Jeu-Latice](https://github.com/Myanganbaatar/Jeu-Latice) | Latice board game with tile-based scoring (team of 4) | Java, JavaFX |
 | [Netflix](https://github.com/Myanganbaatar/Netflix) | Streaming-platform study: backend + user and admin frontends | JavaScript |
-| [Portfolio](https://github.com/Myanganbaatar/Portfolio) | Personal responsive portfolio website | React |
 | [ProjetMAUI](https://github.com/Myanganbaatar/ProjetMAUI) | Cross-platform app | C#, .NET MAUI |
 | [Projet-Kotlin](https://github.com/Myanganbaatar/Projet-Kotlin) | Android application | Kotlin |
 
