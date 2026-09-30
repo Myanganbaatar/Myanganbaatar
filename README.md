@@ -10,25 +10,26 @@ Third-year Computer Science student (**BUT Informatique**, IUT du Limousin, Fran
 
 ## 🛠️ Tech stack
 
-- **Languages:** TypeScript · JavaScript · Java · PHP · Python · SQL · C# · Kotlin · C/C++
-- **Front-end:** React · Next.js · Tailwind CSS
-- **Back-end:** Node.js · Express · Prisma · REST APIs · JWT
-- **Data & DevOps:** PostgreSQL · MySQL · Docker · Nginx · Linux · Cloudflare · Git
+- **Languages:** JavaScript · Java · PHP · Python · SQL · C# · Kotlin · C/C++
+- **Front-end:** React · Next.js · Tailwind CSS · HTML/CSS
+- **Back-end:** Node.js · Express · REST APIs
+- **Data & DevOps:** PostgreSQL · MySQL · Docker · Nginx · Linux · Git
 
 ## 💼 Internship — IT Partner, Ulaanbaatar (Apr – Jun 2026)
 
-Built and shipped three full-stack applications to production:
+Built and shipped three web applications to production:
 
-- **Headless CMS inspired by Strapi** — TypeScript, Node.js/Express, Prisma, PostgreSQL, Next.js admin panel.<br>Content-Type Builder that auto-generates REST APIs (14 field types), JWT auth + role-based permissions, drag-and-drop content editor, media library, PHP SDK, Docker Compose + Nginx deployment.
-- **[mongolian-aupair.com](https://mongolian-aupair.com)** — Next.js 16, React 19, Tailwind CSS.<br>Live company website powered by the headless CMS (dynamic programme pages, FAQ, gallery, testimonials, contact form), plus a PHP version.
-- **correctURL** — Next.js 14, TypeScript, PostgreSQL, Docker.<br>URL shortener with click analytics and custom slugs, hardened in production with Nginx rate limiting, Cloudflare and Fail2ban.
+- **Headless CMS inspired by Strapi** — Node.js/Express, PostgreSQL, Next.js admin panel, Docker.
+- **[mongolian-aupair.com](https://mongolian-aupair.com)** — live company website powered by the CMS (Next.js, React, Tailwind CSS).
+- **correctURL** — URL shortener with click statistics (Next.js, PostgreSQL, Docker, Nginx).
 
 ## 🎓 University & personal projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Portfolio](https://github.com/Myanganbaatar/Portpolio) · [live](https://myanganbaatar.github.io/Portpolio/) | Personal responsive portfolio website | React, GitHub Pages |
-| [Jeu-Latice](https://github.com/Myanganbaatar/Jeu-Latice) | Latice board game with tile-based scoring (team of 4) | Java, JavaFX |
+| [Portfolio](https://github.com/Myanganbaatar/Portpolio) · [live](https://myanganbaatar.github.io/Portpolio/) | Personal portfolio website | React, GitHub Pages |
+| [Python mini-games](https://github.com/Myanganbaatar/SAE-PYTHON) · [play](https://myanganbaatar.github.io/Portpolio/#/play/python) | Tic-tac-toe, Connect Four, Matches, Guessing game | Python |
+| [Jeu-Latice](https://github.com/Myanganbaatar/Jeu-Latice) · [play](https://myanganbaatar.github.io/Portpolio/#/play/latice) | Latice board game with tile-based scoring (team of 4) | Java, JavaFX |
 | [Netflix](https://github.com/Myanganbaatar/Netflix) | Streaming-platform study: backend + user and admin frontends | JavaScript |
 | [ProjetMAUI](https://github.com/Myanganbaatar/ProjetMAUI) | Cross-platform app | C#, .NET MAUI |
 | [Projet-Kotlin](https://github.com/Myanganbaatar/Projet-Kotlin) | Android application | Kotlin |
